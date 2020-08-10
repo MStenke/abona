@@ -16,16 +16,16 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :header-rows: 1
 
    * - **Martin Stenke**
-     - **Andreas Thiel**
+     - **Andreas Ehrenreiter**
    * - .. figure:: images/MStenke.png
-     - .. figure:: images/person.png
+     - .. figure:: images/AEhrenreiter.png
    * - **Senior Systems Engineer**
-     - **Presales Consultant**
+     - **Cloud Architect**
    * - Nutanix Germany GmbH
-     - Bechtle GmbH & Co. KG
+     - Nutanix Germany GmbH
    * - +49 160 / 8540279
-     - +49 151 26112561 
+     - +49 151 / 11359466
    * - martin.stenke@nutanix.com
-     - andreas.thiel@bechtle.com
+     - andreas.ehrenreiter@nutanix.com
    
    
